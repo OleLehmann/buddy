@@ -9,7 +9,7 @@ Persistent memory, XP evolutions, 21 species, and context-aware feedback for Cla
 **🚀 6745+ clones · 3145+ buddies rescued or hatched · 3 weeks in the wild**
 
 [![License](https://img.shields.io/badge/license-MIT-ffd166?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/fiorastudio/buddy?style=flat-square)](https://github.com/fiorastudio/buddy/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/OleLehmann/buddy?style=flat-square)](https://github.com/OleLehmann/buddy/stargazers)
 [![Node.js](https://img.shields.io/badge/node-18%2B-3c873a?style=flat-square)](https://nodejs.org/)
 [![MCP](https://img.shields.io/badge/protocol-MCP-111827?style=flat-square)](https://modelcontextprotocol.io/)
 
@@ -98,13 +98,13 @@ Buddy isn't just code — it's a rescue mission. Here is the full journey of the
 ### macOS / Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/fiorastudio/buddy/master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/OleLehmann/buddy/master/install.sh | bash
 ```
 
 ### Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/fiorastudio/buddy/master/install.ps1 | iex
+irm https://raw.githubusercontent.com/OleLehmann/buddy/master/install.ps1 | iex
 ```
 
 The installer will guide you through onboarding:
@@ -592,7 +592,7 @@ Negligibly. Pro/Max plans are subscription-based — no per-token charges. Usage
 Yes.
 
 ```bash
-git clone https://github.com/fiorastudio/buddy.git ~/.buddy/server
+git clone https://github.com/OleLehmann/buddy.git ~/.buddy/server
 cd ~/.buddy/server
 npm install
 npm run build
@@ -632,7 +632,7 @@ Yes. Run the uninstall script (`uninstall.sh` or `uninstall.ps1`) to remove Budd
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/fiorastudio/buddy.git
+git clone https://github.com/OleLehmann/buddy.git
 cd buddy
 npm install
 npm run build
@@ -647,8 +647,8 @@ npm start
 Thank you to everyone who helped bring buddies back to life.
 
 <p>
-  <a href="https://github.com/fiorastudio/buddy/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=fiorastudio/buddy" alt="Contributors" />
+  <a href="https://github.com/OleLehmann/buddy/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=OleLehmann/buddy" alt="Contributors" />
   </a>
 </p>
 
@@ -679,8 +679,8 @@ Learn more about the mission to rescue Buddy and the engineering behind the scen
 
 - **Product Hunt**: <a href="https://www.producthunt.com/products/buddy-tamagotchi?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-buddy-tamagotchi" target="_blank" rel="noopener noreferrer"><img alt="Buddy Tamagotchi - A virtual pet buddy for your AI — hatch, level up together | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1129100&amp;theme=light&amp;t=1776788389001"></a>
 - **Hacker News**: [Discussion on the Buddy Rescue Mission](https://news.ycombinator.com/item?id=47792606)
-- **Dev.to Series**: [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part I)](https://dev.to/fiorastudio/field-notes-from-a-solo-builder-shipping-the-beloved-claude-code-buddy-into-the-wild-part-i-3lpa) , [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part II)](https://dev.to/fiorastudio/first-principles-architecture-and-the-token-tax-5g4p), [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part III)](https://dev.to/fiorastudio/open-source-community-and-the-art-of-listening-454k)
-- **Deepwiki by Devin**: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/fiorastudio/buddy)
+- **Dev.to Series**: [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part I)](https://dev.to/OleLehmann/field-notes-from-a-solo-builder-shipping-the-beloved-claude-code-buddy-into-the-wild-part-i-3lpa) , [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part II)](https://dev.to/OleLehmann/first-principles-architecture-and-the-token-tax-5g4p), [Field Notes from a Solo Builder: Shipping the Beloved Claude Code Buddy into the Wild (Part III)](https://dev.to/OleLehmann/open-source-community-and-the-art-of-listening-454k)
+- **Deepwiki by Devin**: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OleLehmann/buddy)
 
 
 ## 👤 Author
@@ -689,7 +689,7 @@ Learn more about the mission to rescue Buddy and the engineering behind the scen
 
 - [LinkedIn](https://www.linkedin.com/in/jieliwu/)
 - [Portfolio](https://jwu-studio-portfolio.vercel.app/)
-- GitHub: [@terpjwu1](https://github.com/terpjwu1) and [@fiorastudio](https://github.com/fiorastudio)
+- GitHub: [@terpjwu1](https://github.com/terpjwu1) and [@OleLehmann](https://github.com/OleLehmann)
 
 ## 📄 License
 
